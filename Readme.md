@@ -1,7 +1,7 @@
 # Repo containing demonstration of Modern Java Features - version 21
 
 ##Note
- - Application code is segregated in sub-diretories under com/rishee/java21apps
+ - Application code is segregated in sub-directories under com/rishee/java21apps
 
 ### Applications & their significance
 
